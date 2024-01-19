@@ -1,7 +1,7 @@
-/*一切都有開始與結束 程式也不例外*/
+/*Everything has a beginning and an end, including programs*/
 #include<stdio.h>
 int main()
 {
-	printf("歡迎來到C語言!\n");
-	return 0;
+printf("Welcome to C language!\n");
+return 0;
 }
