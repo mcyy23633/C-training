@@ -3,4 +3,4 @@ main()
 {
 	int i=100;
 	printf("%d",i);
- } 
+}
