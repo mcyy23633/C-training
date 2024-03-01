@@ -1,7 +1,7 @@
 main()
 {	int i;
 	int iarr[]={10, 20, 30, 40, 50, 60};
-	char carr[]={'S','h','i','n','d','e','r'};
+	char carr[]={'S','h','i','n','d','e','r'};  
 	int* p;
           char* q;
 	p = iarr;

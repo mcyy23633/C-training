@@ -4,7 +4,7 @@ main()
 	int i;
 	int  arr[]= {65537, 20, 30, 40, 50, 60};
 	int *p;
-	char *q;
+	q = char *q;
 
 	p=arr;
 	(char*)arr;

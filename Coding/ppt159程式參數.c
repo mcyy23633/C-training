@@ -8,7 +8,7 @@ void main(int argc, char *argv[])
 	}
 	else if(*argv[1]!='-')
 		printf("Good day, %s!", argv[1]);
-	else
+	else 
 	{
 		switch(*(argv[1]+1))
 		{
